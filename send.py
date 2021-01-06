@@ -4,7 +4,7 @@ import creds
 sender_email= "sender@gmail.com"
 receiver_email = "receiver@gmail.com"
 
-password = creds.password
+password = "Password"
 
 message =" This is a test email sent with python"
 
